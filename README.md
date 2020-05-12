@@ -17,7 +17,6 @@ A basic and simple Python-like interpreter written in C.
     - [ ] Simple execution
     - [ ] Stack-based virtual machine
 
-### What can the program do?
 
 - Create Bython objects (`objects.h`)
     -  [x] `ByObject_Int`
@@ -28,6 +27,14 @@ A basic and simple Python-like interpreter written in C.
 - Functions
     - [ ] Define
     - [ ] Call
+
+### What can the program do?
+
+- [ ] Assignment
+- [ ] Arithmetic
+- [ ] Arithmetic with assignment
+- [ ] Defining function
+- [ ] Calling a function
 
 ## References
 
