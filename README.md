@@ -33,4 +33,4 @@ A basic and simple Python-like interpreter written in C.
 
 * Your Guide to the CPython Source Code ([realpython.com](https://realpython.com/cpython-source-code-guide/))
 * A Python Interpreter Written in Python ([aosabook.org](http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html#fnref2))
-A basic and simple Python-like interpreter written in C implemented as a virtual machine.
+
