@@ -5,12 +5,14 @@ A basic and simple Python-like interpreter written in C.
 ### Workflow
 
 1. Memory management (`memory.h`)
-    - [ ] Arena
+    - [x] `ByArena`
     - [ ] Reference count
     - [ ] Garbage collection
 2. Parsing (`tok.h`)
 3. AST (`ast.h`)
+    - [x] `ByAST_Node`
 4. Bytecode (`compile.h`)
+    - [x] `ByCodeObject`
 5. Execution (`execution.h`)
     - [ ] Simple execution
     - [ ] Stack-based virtual machine
@@ -18,8 +20,8 @@ A basic and simple Python-like interpreter written in C.
 ### What can the program do?
 
 - Create Bython objects (`objects.h`)
-    -  [ ] int
-    -  [ ] list
+    -  [x] `ByObject_Int`
+    -  [ ] `ByObject_List`
 - Perform operations (`objects.h`)
     - [ ] Assignment
     - [ ] Arithmetic
